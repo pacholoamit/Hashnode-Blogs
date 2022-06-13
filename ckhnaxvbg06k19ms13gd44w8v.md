@@ -15,7 +15,8 @@ This article is written as rules to abide by, these are things you should keep i
 
 If perchance, you are fortunate enough to land a job in a high responsibility position such as the project manager (title varies from company to company). You better act like it. Always remember that the ideal to strive for is YOU have the highest responsibility in the team. When the project gets bumpy and you have gaps in your knowledge on what dependencies were used and what for, you know you're doing something wrong.
 
-![With great power comes great responsibility](https://memegenerator.net/img/instances/64050332/remember-with-great-power-comes-great-responsibility.jpg)
+> With great power comes great responsibility
+
 
 Always remember, we are the first to arrive and the last to leave for a reason. If you are in a high-ranking job, that comes with the responsibility. We look over the new bloods because of our ancient occult knowledge on how to build the right authentication systems in laravel.
 
