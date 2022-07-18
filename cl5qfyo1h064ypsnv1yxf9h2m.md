@@ -2,7 +2,7 @@
 
 Today we're going to attempt to embed a React Application into a Go binary. Please watch the youtube video down below for more mind blowing stuff. We're going to create a Golang REST API with [Echo](https://go.dev/doc/install) and a [React](https://vitejs.dev/guide/#trying-vite-online) application with Vite. From there, we're going to produce a single binary/executable containing both the API & the Web application.
 
-{% embed https://youtu.be/w_Rv_3-FF0g %}
+%[https://youtu.be/w_Rv_3-FF0g ]
 
 
 ## Pre-requisites
