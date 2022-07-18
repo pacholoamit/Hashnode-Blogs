@@ -166,7 +166,7 @@ Now let's test the go server to see if it's serving the static assets of our rea
 ```sh
 go run main.go
 ```
-### Now if you visit http://localhost:8080 in the browser you should see the default vite React application.
+Now if you visit http://localhost:8080 in the browser you should see the default vite React application.
 
 ## Making a request to the Go API server from within React
 Now let's try to make a `GET` request to the Go API server from within our React app that is also served by the Go server... Sounds like some inception stuff happening here. Please add the following:
@@ -216,7 +216,7 @@ Then we need to run the go server to serve the files
 cd .. && go run main.go
 ```
 
-### If we visit http://localhost:8080, you should be greeted with "Hello world" which comes from the Go API server
+If we visit http://localhost:8080, you should be greeted with "Hello world" which comes from the Go API server
 
 ## A really bad development experience
 I'm sure you noticed that always running 2 terminals both with different processes is a really bad dev experience, fear not for I have a solution!
